@@ -14,4 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=jinwooseok&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=jinwooseok&show_icons=true&theme=radical&count_private=true)
+
+## 🔨 stack 🔨
+<div style="display:flex; flex-direction:row;">
+    <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
+    <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
+    <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white">  
+    <br>
+</div><br>
+</div>
