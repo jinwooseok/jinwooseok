@@ -14,6 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinwooseok&layout=compact"><br><br>
+	<img src="https://github-readme-stats.vercel.app/api?username=jinwooseok&show_icons=true">
+</div>
 ![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=jinwooseok&show_icons=true&theme=radical&count_private=true)
 
 ## 🔨 stack 🔨
