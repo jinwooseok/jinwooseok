@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-	[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinwooseok)](https://github.com/jinwooseok/github-readme-stats)
 	<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jinwooseok&show_icons=true&theme=radical&count_private=true">
 </div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinwooseok)](https://github.com/jinwooseok/github-readme-stats)
 
 ## 🔨 stack 🔨
 <div style="display:flex; flex-direction:row;">
