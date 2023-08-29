@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-[![bi-sz's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinwooseok&include_all_commits=true&show_icons=true&theme=cobalt)](https://github.com/bi-sz/github-readme-stats)
+[![bi-sz's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinwooseok&include_all_commits=true&show_icons=true&theme=cobalt&count_private = true)](https://github.com/bi-sz/github-readme-stats)
 
 
 ## 🔨 stack 🔨
