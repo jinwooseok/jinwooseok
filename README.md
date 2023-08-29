@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
-	![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinwooseok&show_icons=true&theme=radical)
-</div>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinwooseok&show_icons=true&theme=radical&count_private=true)
+
 
 ## 🔨 stack 🔨
 <div style="display:flex; flex-direction:row;">
