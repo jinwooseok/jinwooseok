@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinwooseok&show_icons=true&theme=radical&count_private=true)
+[![Arribass's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinwooseok&count_private=true)](https://github.com/arribass/github-readme-stats)
 
 
 ## 🔨 stack 🔨
