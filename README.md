@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinwooseok&show_icons=true&theme=cobalt&count_private=true)
+[!['jinwooseok's GitHub stats'](https://github-readme-stats.vercel.app/api?username=jinwooseok&show_icons=true&theme=cobalt&count_private=true)](https://github.com/jinwooseok/github-readme-stats)
 
 
 ## 🔨 stack 🔨
