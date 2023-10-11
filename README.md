@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img height="180em" src="https://github-readme-stats-weld-five-41.vercel.app/api?username=jinwooseok&show_icons=true&theme=cobalt&locale=kr&include_all_commits=false&&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-weld-five-41.vercel.app/api?username=jinwooseok&show_icons=true&theme=cobalt&locale=kr&include_all_commits=false&count_private=true"/>
 
 
 ## 🔨 stack 🔨
