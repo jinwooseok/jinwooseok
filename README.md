@@ -22,8 +22,9 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-Docker-yellow"/>&nbsp
   <img src="https://img.shields.io/badge/-Git-black"/>&nbsp
   <img src="https://img.shields.io/badge/-Django-green"/>&nbsp
-  <img src="https://img.shields.io/badge/-Java-sky"/>&nbsp
-  <img src="https://img.shields.io/badge/-Django-gray"/>&nbsp
+  <img src="https://img.shields.io/badge/-Java-red"/>&nbsp
+  <img src="https://img.shields.io/badge/-Spring-gray"/>&nbsp
+  <img src="https://img.shields.io/badge/-SQL-orange"/>&nbsp
   
 </p>
 
