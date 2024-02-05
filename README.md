@@ -1,4 +1,4 @@
-### Hi there 👋
+<h3 align="center">Hi there 👋</h3>
 
 <!--
 **jinwooseok/jinwooseok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <h3 align="center">•••</h3>
 
 <p align="center">
-  <a href="https://southern-pamphlet-8d8.notion.site/f85a823919ad4117aa90f3f18c1ac899"><img src="https://img.shields.io/badge/Notion%20Blog-262626?style=flat-square&logo=D-Wave Systems&logoColor=white&link=https://newwisdom.tistory.com"/></a>&nbsp
+  <a href="/"><img src="https://img.shields.io/badge/Notion%20Blog-262626?style=flat-square&logo=D-Wave Systems&logoColor=white&link=https://newwisdom.tistory.com"/></a>&nbsp
   
   
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
