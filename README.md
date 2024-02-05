@@ -32,4 +32,4 @@ Here are some ideas to get you started:
   
   
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinwooseok&show_icons=true&theme=buefy)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinwooseok&show_icons=true&theme=buefy&count-private=true)
