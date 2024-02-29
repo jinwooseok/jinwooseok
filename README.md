@@ -30,6 +30,6 @@ Here are some ideas to get you started:
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
 <div align="center">
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinwooseok&include_all_commits=true&show_icons=true&theme=buefy&count_private=true)
+  ![jinwooseok's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinwooseo&show_icons=true&theme=buefy&count_private=true)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinwooseok&hide=javascript,html,css)
 </div>
