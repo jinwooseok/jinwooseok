@@ -32,4 +32,6 @@ Here are some ideas to get you started:
   
   ![jinwooseok's GitHub stats](https://github-readme-stats-lfngdy4ss-jinwooseok.vercel.app/api?username=jinwooseok&show_icons=true&theme=buefy&count_private=true)
   ![Top Langs](https://github-readme-stats-lfngdy4ss-jinwooseok.vercel.app/api/top-langs/?username=jinwooseok&layout=compact&theme=nord&hide_border=true&hide=javascript,html,css)
+  <img align="center" style="height:180px" src="https://github-readme-stats-lfngdy4ss-jinwooseok.vercel.app/api?username=jinwooseok&show_icons=true&theme=buefy&count_private=true"/>
+  <img align="center" style="height:180px" src="https://github-readme-stats-lfngdy4ss-jinwooseok.vercel.app/api/top-langs/?username=jinwooseok&layout=compact&theme=nord&hide_border=true&hide=javascript,html,css"/>
 </div>
