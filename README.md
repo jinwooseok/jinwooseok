@@ -31,5 +31,5 @@ Here are some ideas to get you started:
 <div align="center">
   
   ![jinwooseok's GitHub stats](https://github-readme-stats-lfngdy4ss-jinwooseok.vercel.app/api?username=jinwooseok&show_icons=true&theme=buefy&count_private=true)
-  ![Top Langs](https://github-readme-stats-lfngdy4ss-jinwooseok.vercel.app/api/top-langs/?username=jinwooseok&hide=javascript,html,css)
+  ![Top Langs](https://github-readme-stats-lfngdy4ss-jinwooseok.vercel.app/api/top-langs/?username=jinwooseok&layout=compact&theme=nord&hide_border=true&hide=javascript,html,css)
 </div>
