@@ -1,5 +1,4 @@
-<h3 align="center">Hi there 👋</h3>
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=COFFEE_BARA&fontSize=90)
 <!--
 **jinwooseok/jinwooseok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -29,9 +28,7 @@ Here are some ideas to get you started:
 </p>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
 <div align="center">
-  
-  ![jinwooseok's GitHub stats](https://github-readme-stats-lfngdy4ss-jinwooseok.vercel.app/api?username=jinwooseok&show_icons=true&theme=buefy&count_private=true)
-  ![Top Langs](https://github-readme-stats-lfngdy4ss-jinwooseok.vercel.app/api/top-langs/?username=jinwooseok&layout=compact&theme=nord&hide_border=true&hide=javascript,html,css)
+
   <img align="center" style="height:180px" src="https://github-readme-stats-lfngdy4ss-jinwooseok.vercel.app/api?username=jinwooseok&show_icons=true&theme=buefy&count_private=true"/>
   <img align="center" style="height:180px" src="https://github-readme-stats-lfngdy4ss-jinwooseok.vercel.app/api/top-langs/?username=jinwooseok&layout=compact&theme=nord&hide_border=true&hide=javascript,html,css"/>
 </div>
