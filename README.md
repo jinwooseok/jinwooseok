@@ -1,4 +1,4 @@
-<img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&section=header&text=COFFEE_BARA&fontSize=50&height=250&fontAlignY=20&descAlignY=40"/>
+<img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&section=header&text=COFFEE_BARA&fontSize=50&height=250&descAlignY=40"/>
 
 <h3 align="center">📚 Technology Stack 📚</h3>
 <p align="center">
