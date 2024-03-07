@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&section=header&text=COFFEE_BARA&fontSize=80&height=200&fontAlignY=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&section=header&text=COFFEE_BARA&fontSize=80&height=200&fontAlignY=10)
 
 <h3 align="center">📚 Technology Stack 📚</h3>
 <p align="center">
