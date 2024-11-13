@@ -16,5 +16,6 @@
 <div align="center">
 
   <img align="center" style="height:180px" src="https://github-readme-stats-delta-five-29.vercel.app/api/?username=jinwooseok&show_icons=true&theme=buefy&count_private=true"/>
+  
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jinus7949)](https://solved.ac/jinus7949/)
 </div>
