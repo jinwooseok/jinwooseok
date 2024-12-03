@@ -45,8 +45,8 @@
 * 사회조사분석사 2급 (22.06.17)
 * ADSP(데이터분석준전문가) (21.09.24)
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
-<div align="center">
-  <img align="center" style="height:180px" src="https://github-readme-stats-delta-five-29.vercel.app/api/?username=jinwooseok&show_icons=true&theme=buefy&count_private=true"/>
+<div>
+  <img style="height:180px" src="https://github-readme-stats-delta-five-29.vercel.app/api/?username=jinwooseok&show_icons=true&theme=buefy&count_private=true"/>
   
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jinus7949)](https://solved.ac/jinus7949/)
 </div>
