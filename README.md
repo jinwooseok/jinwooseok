@@ -7,7 +7,7 @@
 * 남을 실망시키고 싶지 않아요. 그래서 더 나은 실력을 갖추기 위해 노력하고 있어요.
 
 ## Blog
-<img src="https://img.shields.io/badge/-Velog-#20C997"/>
+<img src="https://img.shields.io/badge/Velog-20C997.svg"/>
 
 <h3>📚 Technology Stack 📚</h3>
 <p>
