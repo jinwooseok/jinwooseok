@@ -30,20 +30,33 @@
 * 부전공: 전남대학교 소프트웨어공학과 (2020.03 ~ 2024.02)
 * 주전공: 전남대학교 통계학과 (2018.03 ~ 2024.02)
 
-## Awards
-* 디지털 신기술을 활용한 지역 문제해결 아이디어 공모전 최우수상 (23.09.05)
-* 제 4회 오아시스 해커톤 최우수상 (23.08.31)
-* 카카오테크캠퍼스 아이디어톤 최우수상 (23.08.27)
-* 지역혁신 AI클라우드 경진대회 금상 (23.02.28)
-* 2022 광주형 인공지능 문제해결 아이디어 공모전 장려상 (22.07.19)
+<div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 20px;">
 
-## Certificate
-* 빅데이터분석기사 (24.12.13 제발합격주세요..)
-* 정보처리기사 (24.09.10)
-* NCA(NAVER Cloud Platform Certified Associate) (22.11.24)
-* SQLD(SQL개발자) (22.09.30)
-* 사회조사분석사 2급 (22.06.17)
-* ADSP(데이터분석준전문가) (21.09.24)
+  <div>
+    <h2>Awards</h2>
+    <ul>
+      <li>디지털 신기술을 활용한 지역 문제해결 아이디어 공모전 최우수상 (23.09.05)</li>
+      <li>제 4회 오아시스 해커톤 최우수상 (23.08.31)</li>
+      <li>카카오테크캠퍼스 아이디어톤 최우수상 (23.08.27)</li>
+      <li>지역혁신 AI클라우드 경진대회 금상 (23.02.28)</li>
+      <li>2022 광주형 인공지능 문제해결 아이디어 공모전 장려상 (22.07.19)</li>
+    </ul>
+  </div>
+
+  <div>
+    <h2>Certificate</h2>
+    <ul>
+      <li>빅데이터분석기사 (24.12.13 제발합격주세요..)</li>
+      <li>정보처리기사 (24.09.10)</li>
+      <li>NCA(NAVER Cloud Platform Certified Associate) (22.11.24)</li>
+      <li>SQLD(SQL개발자) (22.09.30)</li>
+      <li>사회조사분석사 2급 (22.06.17)</li>
+      <li>ADSP(데이터분석준전문가) (21.09.24)</li>
+    </ul>
+  </div>
+
+</div>
+
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
 
