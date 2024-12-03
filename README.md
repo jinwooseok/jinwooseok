@@ -31,7 +31,6 @@
 * 주전공: 전남대학교 통계학과 (2018.03 ~ 2024.02)
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 20px;">
-
   <div>
     <h2>Awards</h2>
     <ul>
@@ -42,7 +41,6 @@
       <li>2022 광주형 인공지능 문제해결 아이디어 공모전 장려상 (22.07.19)</li>
     </ul>
   </div>
-
   <div>
     <h2>Certificate</h2>
     <ul>
@@ -54,7 +52,6 @@
       <li>ADSP(데이터분석준전문가) (21.09.24)</li>
     </ul>
   </div>
-
 </div>
 
 
