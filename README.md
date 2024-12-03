@@ -24,8 +24,10 @@
   <img src="https://img.shields.io/badge/-Vue-black"/>&nbsp
 </p>
 
+## Present Progressive..
+
 <div style="display: flex; align-items: center;">
-  <img style="height: 160px;" src="https://github-readme-stats-delta-five-29.vercel.app/api/?username=jinwooseok&show_icons=true&theme=buefy&count_private=true" />
+  <img style="height: 165px;" src="https://github-readme-stats-delta-five-29.vercel.app/api/?username=jinwooseok&show_icons=true&theme=buefy&count_private=true" />
   <a href="https://solved.ac/jinus7949/">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jinus7949" />
   </a>
