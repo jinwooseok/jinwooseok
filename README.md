@@ -9,8 +9,8 @@
 ## Blog
 <img src="https://img.shields.io/badge/-Velog-#20C997"/>
 
-<h3 align="center">📚 Technology Stack 📚</h3>
-<p align="center">
+<h3>📚 Technology Stack 📚</h3>
+<p>
   <img src="https://img.shields.io/badge/-Python-blue"/>&nbsp
   <img src="https://img.shields.io/badge/-Nginx-yellowgreen"/>&nbsp
   <img src="https://img.shields.io/badge/-Docker-yellow"/>&nbsp
@@ -19,7 +19,6 @@
   <img src="https://img.shields.io/badge/-Java-red"/>&nbsp
   <img src="https://img.shields.io/badge/-Spring-gray"/>&nbsp
   <img src="https://img.shields.io/badge/-SQL-orange"/>&nbsp
-  
 </p>
 
 ## Education
