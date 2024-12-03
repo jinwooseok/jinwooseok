@@ -8,7 +8,7 @@
 * 남을 실망시키고 싶지 않아요. 그래서 더 나은 실력을 갖추기 위해 노력하고 있어요.
 
 ## Blog
-<img src="https://img.shields.io/badge/Velog-#20C997?style=flat&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Velog-#20C997/>
 
 습관은 아직 덜들었는데 기록해두려고 노력하고 있어요
 
