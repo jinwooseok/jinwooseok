@@ -6,6 +6,8 @@
 * 백엔드를 주로 공부했지만 가리는건 없는 잡식성입니다. 새로운 시도를 많이 하는 편입니다.
 * 남을 실망시키고 싶지 않아요. 그래서 더 나은 실력을 갖추기 위해 노력하고 있어요.
 
+* **읽고 있는 책** : 소프트웨어 장인
+
 ## Blog
 <a href="https://velog.io/@coffeebara/posts"><img src="https://img.shields.io/badge/Velog-20C997.svg"/></a>
 
