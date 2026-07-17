@@ -47,11 +47,18 @@ Zzzz...
     <th align="center" style="text-align: center;">Contribution</th>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/litmuschaos/litmus"><img src="https://img.shields.io/badge/Litmus%20Chaos-5B44BA?style=for-the-badge&logo=litmuschaos&logoColor=white" alt="Litmus Chaos" /></a></td>
-    <td align="center"><a href="https://github.com/litmuschaos/litmus/pull/5546"><img src="https://img.shields.io/badge/PR%20%235521-181717?style=for-the-badge&logo=github&logoColor=white" alt="PR #5546" /></a></td>
-    <td>test: add fuzz tests for chaos experiment MongoDB operator
-</td>
-  </tr>
+  <td align="center">
+    <a href="https://github.com/litmuschaos/litmus">
+      <img src="https://img.shields.io/badge/Litmus%20Chaos-5B44BA?style=for-the-badge&logo=litmuschaos&logoColor=white" alt="Litmus Chaos" />
+    </a>
+  </td>
+  <td align="center">
+    <a href="https://github.com/litmuschaos/litmus/pull/5546">
+      <img src="https://img.shields.io/badge/PR-5546-black?style=for-the-badge&logo=github&logoColor=white" alt="PR #5546" />
+    </a>
+  </td>
+  <td>test: add fuzz tests for chaos experiment MongoDB operator</td>
+</tr>
 </table>
 
 
